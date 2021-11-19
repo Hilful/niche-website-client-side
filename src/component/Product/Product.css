@@ -1,0 +1,11 @@
+.product{
+    display: grid;
+    grid-template-columns: repeat(1fr,3);
+    border-radius:20px ;
+}
+.product img{
+    width: 200px;
+    padding: 10px;
+    margin-left: 100px;
+    
+}
